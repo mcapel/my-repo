@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-abcde
-54321
-=======
-xxxxx
->>>>>>> xEdit
+xxx
 my name is matteo
 I'm learning GIT
 12345
